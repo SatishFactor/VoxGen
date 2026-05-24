@@ -1,0 +1,6 @@
+{
+  "name": "Voice Forge Studio",
+  "description": "An advanced text-to-speech studio featuring AI-powered voice design, custom vocal DNA parameters, voice cloning analysis, SSML advanced controls, and multi-format audio exports.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
